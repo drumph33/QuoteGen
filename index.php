@@ -2,7 +2,7 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="project1.css">
-<link rel="shortcut icon" href="favicon.ping"/>
+<link rel="shortcut icon" href="favicon.png"/>
 <title>DWA 15 Project 1</title>
 </head>
 
