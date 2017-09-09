@@ -13,12 +13,23 @@ img {
     display: block;
     margin: 0 auto;
 }
+h2{
+  font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
+  color: navy;
+  text-align: center;
+  font-size: 33px;
+}
+
 p{
-    border: 2px outset gray;
-    border-radius: 9px;
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
     color: navy;
     text-align: center;
+    display: block;
   }
-
+h3{
+  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+  text-align: center;
+  color: maroon;
+}
 
 </head>
