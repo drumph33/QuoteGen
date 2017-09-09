@@ -1,0 +1,24 @@
+
+body{
+  background-color: lightblue;
+
+}
+
+h1{
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  text-align: center;
+  color: navy;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+p{
+    border: 2px outset gray;
+    border-radius: 9px;
+    color: navy;
+    text-align: center;
+  }
+
+
+</head>
