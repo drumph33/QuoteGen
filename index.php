@@ -2,6 +2,7 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="project1.css">
+<link rel="shortcut icon" href="favicon.ico"/>
 <title>DWA 15 Project 1</title>
 </head>
 
