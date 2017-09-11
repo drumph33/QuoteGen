@@ -6,6 +6,8 @@
 
 <link rel="shortcut icon" href="favicon.png"/>
 
+<meta charset="utf-8" />
+
 <title>DWA 15 Project 1</title>
 
 </head>
