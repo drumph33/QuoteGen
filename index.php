@@ -42,7 +42,7 @@ $quotes = [
     13 => 'In three words I can sum up everything I’ve learned about life: it goes on. – Robert Frost',
     14 => 'Don’t take life too seriously. You’ll never get out of it alive. – Elbert Hubbard',
     15 => 'Nothing that you have not given away will ever be really yours. – C. S. Lewis',
-    16 => 'Life is what happens to you while youre busy making other plans. – Allen Saunders',
+    16 => 'Life is what happens to you while you’re busy making other plans. – Allen Saunders',
     17 => 'Good sense, disciplined by experience and inspired by goodness, issues in practical wisdom. – Samuel Smiles ',
     18 => 'One of the greatest pieces of economic wisdom is to know what you do not know. – John Kenneth Gilbraith'
 ];
