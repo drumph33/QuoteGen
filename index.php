@@ -2,13 +2,13 @@
 <html>
 <head>
 
-<link rel="stylesheet" type="text/css" href="project1.css">
-
-<link rel="shortcut icon" href="favicon.png"/>
-
 <meta charset="utf-8" />
 
 <title>DWA 15 Project 1</title>
+
+<link rel="stylesheet" type="text/css" href="project1.css">
+
+<link rel="shortcut icon" href="favicon.png"/>
 
 </head>
 
