@@ -1,3 +1,9 @@
+<!--
+Name: Dylan Rumph
+Date: September 13, 2017
+Course: CSCI E-15: Dynamic Web Applications
+Project: Project 1 - Quote Generator
+-->
 <?php
     function quoteGen()
     {
